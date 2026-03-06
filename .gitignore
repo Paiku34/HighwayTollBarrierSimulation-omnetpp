@@ -1,0 +1,34 @@
+# OMNeT++ build outputs
+out/
+src/highway
+src/highway.exe
+src/highway_dbg
+src/highway_dbg.exe
+src/HighwayBarrier.exe
+src/HighwayBarrier_dbg.exe
+*.exe
+
+# Object files
+*.o
+*.obj
+
+# Generated files
+*_m.cc
+*_m.h
+
+# Simulation results
+simulations/results/
+
+# IDE / OMNeT++ cache files
+.project
+.cproject
+.oppbuildspec
+.settings/
+.nedexclusions
+.nedfolders
+*.qtenvrc
+.cmdenv-log
+
+# OS files
+Thumbs.db
+.DS_Store
