@@ -2,7 +2,6 @@
 
 [![OMNeT++](https://img.shields.io/badge/OMNeT%2B%2B-6.0.3-blue?logo=cplusplus&logoColor=white)](https://omnetpp.org/)
 [![License: LGPL v3](https://img.shields.io/badge/License-LGPL%20v3-green.svg)](https://www.gnu.org/licenses/lgpl-3.0)
-[![GitHub repo](https://img.shields.io/badge/GitHub-Paiku34%2FHighwayTollBarrierSimulation--omnetpp-181717?logo=github)](https://github.com/Paiku34/HighwayTollBarrierSimulation-omnetpp)
 [![University](https://img.shields.io/badge/University-Computer%20Engineering-orange)](/)
 [![Academic Year](https://img.shields.io/badge/Academic%20Year-2024%2F25-purple)](/)
 
